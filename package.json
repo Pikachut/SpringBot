@@ -1,0 +1,17 @@
+{
+  "name": "springbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-akairo": "github:SkyBlockDev/discord-akairo",
+    "discord.js": "^13.0.1",
+    "utf-8-validate": "^5.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pikachute",
+  "license": "ISC"
+}
